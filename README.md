@@ -2,7 +2,7 @@
 
 # Todo
 
-- [ ] Let's brand VKE it aka Vertx Kubernetes Engine
+- [ ] Let's brand it VKE aka Vertx Kubernetes Engine
 - [ ] Let's encrypt support.
 - [ ] Send email when catching exception
 - [ ] Send SMS/MMS when catching exception
