@@ -2,7 +2,7 @@
 
 # Todo
 
-- [ ] Let's brand VKE it aka Vertx Kubernetes Engine 
+- [ ] Let's brand VKE it aka Vertx Kubernetes Engine
 - [ ] Let's encrypt support
 - [ ] Send email when catching exception
 - [ ] Send SMS/MMS when catching exception
@@ -11,9 +11,8 @@
 - [ ] Vertx StateLess / StateFull Worlds
 - [ ] Support VM
 - [ ] Support Micro VM
-- [ ] Support GCP API 
+- [ ] Support GCP API
 - [ ] Support IBM Cloud API
 - [ ] Blue / Green Deployment with EventBus
 - [ ] Canari Deployment with EventBus
 - [ ] Shadow Deployment with EventBus
-
